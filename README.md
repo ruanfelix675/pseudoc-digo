@@ -128,6 +128,10 @@ deve exibir &quot;Sistema encerrado&quot;.
 <img width="1556" height="875" alt="exercicio4" src="https://github.com/user-attachments/assets/d628eb71-2fe6-4ffd-9c5c-a2a1e6baa13f" />
 
 
+fim 
+
+
+
 
 
 
