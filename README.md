@@ -94,6 +94,44 @@ o Porcentagem de pessoas com peso menor que 40 kg
 <img width="1556" height="875" alt="atv 8" src="https://github.com/user-attachments/assets/4037f525-f756-4ac1-a519-ee9da80be85d" />
 
 
+exercicio 10
+Crie um algoritmo em PORTUGOL que leia a idade de uma
+pessoa e informe a sua classe eleitoral: - não eleitor (abaixo
+de 16 anos); - eleitor obrigatório (entre a faixa de 18 e
+menor de 65 anos); - eleitor facultativo (de 16 até 18 anos e
+maior de 65 anos, inclusive)
+<img width="1556" height="875" alt="exercicio1" src="https://github.com/user-attachments/assets/bbee10ef-45f4-467e-ac97-75ed1eb6d21b" />
+
+
+exercicio 11
+Construa um algoritmo em PORTUGOL que imprima qual o
+menor e qual o maior valor de dois números A e B, lidos
+através do teclado.
+<img width="1556" height="875" alt="exercicio2" src="https://github.com/user-attachments/assets/7995ee62-6421-4576-8c0a-e4a47554640a" />
+
+
+exercicio 12 
+Ler uma temperatura em graus Celsius e apresentá-la
+convertida em graus Fahrenheit. A fórmula de conversão é:
+F=(9*C+160)/5, sendo F a temperatura em Fahrenheit e C a
+temperatura em Celsius.
+<img width="1556" height="875" alt="exercicio3" src="https://github.com/user-attachments/assets/f4ef6b51-b10e-4ad8-82e1-ea375b855aa0" />
+
+
+exercicio 13
+Construa um algoritmo em PORTUGOL que leia uma senha
+digitada pelo usuário e permita no máximo 3 tentativas de
+acerto. Caso a senha esteja correta (123), o sistema deve
+informar &quot;Acesso permitido&quot;. Caso contrário, deve informar
+&quot;Senha incorreta&quot;. Após 3 tentativas erradas, o sistema
+deve exibir &quot;Sistema encerrado&quot;.
+<img width="1556" height="875" alt="exercicio4" src="https://github.com/user-attachments/assets/d628eb71-2fe6-4ffd-9c5c-a2a1e6baa13f" />
+
+
+
+
+
+
 
 
 
