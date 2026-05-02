@@ -1,1 +1,1 @@
-# pseudoc-digo
+# pseudocodigo
