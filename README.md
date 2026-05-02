@@ -49,6 +49,56 @@ Crie um algoritmo que:
 
 
 exercicio 6 
+Situação problema
+Um sistema verifica o espaço livre em disco.
+Regras:
+• Menor que 10 GB → "Espaço crítico"
+• Entre 10 e 50 GB → "Espaço moderado"
+• Maior que 50 GB → "Espaço suficiente"
+Desafio
+Crie um algoritmo que leia o espaço disponível e mostre o status.
+<img width="1556" height="875" alt="atv 5" src="https://github.com/user-attachments/assets/61f64d7c-1668-47ef-b595-20bff172cde4" />
+
+
+exercicio 7
+Situação problema
+Um sistema monitora a temperatura do processador.
+Enquanto a temperatura for maior que 70 graus, o sistema deve mostrar:
+"Alerta: temperatura alta".
+Desafio
+Crie um algoritmo utilizando ENQUANTO.
+<img width="1556" height="875" alt="atv 6" src="https://github.com/user-attachments/assets/9ce7c5b0-522f-4bdf-8922-819115c220c3" />
+
+
+exercicio 8
+Situação problema
+Um administrador precisa cadastrar 5 usuários em um sistema.
+Desafio
+Crie um algoritmo que:
+• Leia o nome de 5 usuários
+• Mostre uma mensagem confirmando cada cadastro
+Utilize a estrutura PARA.
+<img width="1556" height="875" alt="atv 7" src="https://github.com/user-attachments/assets/1658e676-cccb-4dfd-96a0-64fee3a17ebe" />
+
+
+
+exercicio 9 
+Idade, Altura e Peso de 10
+Pessoas
+O algoritmo deve:
+• Ler idade, altura e peso de 10 pessoas
+• Calcular:
+o Quantidade de pessoas com idade superior a 50 anos
+o Média das alturas das pessoas entre 10 e 20 anos
+o Porcentagem de pessoas com peso menor que 40 kg
+<img width="1556" height="875" alt="atv 8" src="https://github.com/user-attachments/assets/4037f525-f756-4ac1-a519-ee9da80be85d" />
+
+
+
+
+
+
+
 
 
 
